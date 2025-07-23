@@ -64,6 +64,22 @@ Created in the **"Dashboard"** sheet:
 - Highlighted KPIs and filters for category-specific insights
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
 ## 💡 Recommendations
 
 - **Amplify top performers** with high ratings and review counts through featured listings or ads.
