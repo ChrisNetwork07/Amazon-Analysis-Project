@@ -63,7 +63,9 @@ Created in the **"Dashboard"** sheet:
 - Pie chart for price range segmentation
 - Highlighted KPIs and filters for category-specific insights
 
-![image alt](https://github.com/ChrisNetwork07/Amazon-Analysis-Project/blob/main/Amazon%20Dash.PNG)
+![image alt](https://github.com/ChrisNetwork07/Amazon-Analysis-Project/blob/main/Amazon%20Pivots.PNG)
+
+![image alt](https://github.com/ChrisNetwork07/Amazon-Analysis-Project/blob/main/Amazon%20Pivots.PNG)
 
 ![image alt](https://github.com/ChrisNetwork07/Amazon-Analysis-Project/blob/main/Amazon%20Dash.PNG)
 
