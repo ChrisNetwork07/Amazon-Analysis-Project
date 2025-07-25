@@ -62,31 +62,22 @@ Created in the **"Dashboard"** sheet:
 - Bar charts for average discounts, rating distributions
 - Pie chart for price range segmentation
 - Highlighted KPIs and filters for category-specific insights
-### RAW/SCRAPPED DATA
+- ### RAW/SCRAPPED DATA
 ![image alt](https://github.com/ChrisNetwork07/Amazon-Analysis-Project/blob/main/Amazon%20Scrapped%20Data.PNG)
 
-### CLEANED DATA
-![image alt](
 
-### PIVOTS AND VISUALIZATIONS
+- ### CLEANED DATA
+![image alt](https://github.com/ChrisNetwork07/Amazon-Analysis-Project/blob/main/Amazon%20Cle.PNG)
+
+
+- ### PIVOTS AND VISUALIZATIONS
 ![image alt](https://github.com/ChrisNetwork07/Amazon-Analysis-Project/blob/main/Amazon%20Pivot%201.PNG)
 ![image alt](https://github.com/ChrisNetwork07/Amazon-Analysis-Project/blob/main/Amazon%20Pivots.PNG)
 
-### DASHBOARD
+
+- ### DASHBOARD
 ![image alt](https://github.com/ChrisNetwork07/Amazon-Analysis-Project/blob/main/Amazon%20Dash.PNG)
 
-
-
-
-
-
-
-
-
-
-
-
-  
 
 
 ## 💡 Recommendations
@@ -122,7 +113,8 @@ Created in the **"Dashboard"** sheet:
 
 **Christopher Oriade**  
 Junior Data Analyst | Excel & E-commerce Data Projects  
-📧 [oriadechristopheradekunle@gmail.com]
+📧 oriadechristopheradekunle@gmail.com
+📲 +234 9036878197
 
 
 ## 📄 License
