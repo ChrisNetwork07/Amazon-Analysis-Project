@@ -54,7 +54,6 @@ The dataset contains the following attributes:
 - Most products fall within the **cheap and mid-range** pricing buckets.
 - Products with **fewer than 1,000 reviews** are limited, offering opportunity for targeted promotion.
 
----
 
 ## 📌 Visualizations & Dashboard
 
